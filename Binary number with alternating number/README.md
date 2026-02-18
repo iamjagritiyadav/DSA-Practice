@@ -1,4 +1,4 @@
-# 693. Binary Number with Alternating Bits
+# Binary Number with Alternating Bits
 
 ## Problem Statement
 
