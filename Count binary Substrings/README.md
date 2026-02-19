@@ -258,5 +258,3 @@ Just:
 2. Add `min(previous_group, current_group)` for each adjacent pair
 
 That’s the entire trick.
-
-Clean. Linear. Efficient.
