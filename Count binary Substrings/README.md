@@ -63,9 +63,9 @@ Every valid substring consists of **exactly two consecutive groups**:
 
 That means:
 
-✔ Equal count of 0s and 1s
-✔ Groups must be adjacent
-✔ No mixing like 0101 inside a single substring
+- Equal count of 0s and 1s
+- Groups must be adjacent
+- No mixing like 0101 inside a single substring
 
 ---
 
